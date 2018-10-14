@@ -1,0 +1,12 @@
+C:\Users\Emmanuel Klutse\source\repos\chap5\review15_morningtodo\review15_morningtodo\bin\Debug\review15_morningtodo.exe.config
+C:\Users\Emmanuel Klutse\source\repos\chap5\review15_morningtodo\review15_morningtodo\bin\Debug\review15_morningtodo.exe
+C:\Users\Emmanuel Klutse\source\repos\chap5\review15_morningtodo\review15_morningtodo\bin\Debug\review15_morningtodo.pdb
+C:\Users\Emmanuel Klutse\source\repos\chap5\review15_morningtodo\review15_morningtodo\bin\Debug\review15_morningtodo.xml
+C:\Users\Emmanuel Klutse\source\repos\chap5\review15_morningtodo\review15_morningtodo\obj\Debug\review15_morningtodo.vbprojAssemblyReference.cache
+C:\Users\Emmanuel Klutse\source\repos\chap5\review15_morningtodo\review15_morningtodo\obj\Debug\review15_morningtodo.Form1.resources
+C:\Users\Emmanuel Klutse\source\repos\chap5\review15_morningtodo\review15_morningtodo\obj\Debug\review15_morningtodo.Resources.resources
+C:\Users\Emmanuel Klutse\source\repos\chap5\review15_morningtodo\review15_morningtodo\obj\Debug\review15_morningtodo.vbproj.GenerateResource.cache
+C:\Users\Emmanuel Klutse\source\repos\chap5\review15_morningtodo\review15_morningtodo\obj\Debug\review15_morningtodo.vbproj.CoreCompileInputs.cache
+C:\Users\Emmanuel Klutse\source\repos\chap5\review15_morningtodo\review15_morningtodo\obj\Debug\review15_morningtodo.exe
+C:\Users\Emmanuel Klutse\source\repos\chap5\review15_morningtodo\review15_morningtodo\obj\Debug\review15_morningtodo.xml
+C:\Users\Emmanuel Klutse\source\repos\chap5\review15_morningtodo\review15_morningtodo\obj\Debug\review15_morningtodo.pdb
